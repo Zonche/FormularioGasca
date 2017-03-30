@@ -1,0 +1,5 @@
+C:\Users\Dann\documents\visual studio 2012\Projects\ExpresionesRegulares\ExpresionesRegulares\bin\ExpresionesRegulares.dll
+C:\Users\Dann\documents\visual studio 2012\Projects\ExpresionesRegulares\ExpresionesRegulares\bin\ExpresionesRegulares.pdb
+C:\Users\Dann\documents\visual studio 2012\Projects\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csprojResolveAssemblyReference.cache
+C:\Users\Dann\documents\visual studio 2012\Projects\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.dll
+C:\Users\Dann\documents\visual studio 2012\Projects\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb
